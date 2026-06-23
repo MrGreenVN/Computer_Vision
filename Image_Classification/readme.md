@@ -1,4 +1,4 @@
-# DL4CV Assignment 1 - PathMNIST Image Classification
+# PathMNIST Image Classification
 
 ## Overview
 This project evaluates multiple deep learning architectures on the **PathMNIST** histopathology image classification dataset for colorectal cancer tissue analysis.
