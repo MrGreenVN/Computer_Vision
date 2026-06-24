@@ -85,16 +85,6 @@ This project evaluates multiple deep learning architectures on the **PathMNIST**
 - Full backbone fine-tuning with augmentation achieves the highest accuracy (95.4%).
 - ViT-based hybrid models increase computational cost without improving performance on this dataset.
 
-## Repository Structure
-
-```text
-├── data/
-├── notebooks/
-├── src/
-├── models/
-├── results/
-├── README.md
-└── requirements.txt
 ```
 
 ## Future Work
