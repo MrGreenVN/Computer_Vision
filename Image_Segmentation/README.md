@@ -112,44 +112,6 @@ These visualizations help interpret model behavior and segmentation performance.
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/dl4cv-semantic-segmentation.git
-cd dl4cv-semantic-segmentation
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Training
-
-Example:
-
-```bash
-python train.py --model deeplabv3plus
-```
-
-Available models:
-
-```text
-fcn
-unet
-deeplabv3
-deeplabv3plus
-pspnet
-fpn
-segformer
-```
-
----
 
 
 
